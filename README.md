@@ -1,4 +1,4 @@
-# 00-professional-lab-setup
+# Homelab Infrastructure
 
 ## Overview
 
@@ -41,8 +41,16 @@ The purpose of this project is to create a structured and documented lab that wi
 
 ---
 
-## Status
+## Current Lab Status
 
-🚧 In Progress
+Implemented:
 
-This repository will be continuously updated as the lab grows.
+- VMware Workstation
+- DC01
+- Windows Server 2025
+
+Planned:
+
+- Active Directory
+- Windows Client
+- Linux Server
